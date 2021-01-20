@@ -1,2 +1,2 @@
-# Loan_Calculator_App
+# Loan Calculator
 R-Shiny loan calculator app code
